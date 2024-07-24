@@ -3,7 +3,7 @@
 ## Overview
 This project involves the creation of a comprehensive dashboard to analyze data from the Google Play Store. The dashboard is built using Power BI, SQL, and Python, offering detailed insights into various aspects of the Play Store, including app categories, user ratings, revenue trends, and more.
 
-!(alt text)[https://www.google.com/imgres?q=playstore%20image&imgurl=https%3A%2F%2Fresize.indiatvnews.com%2Fen%2Fresize%2Fnewbucket%2F1200_-%2F2023%2F07%2Fplaystore-1690375555.jpg&imgrefurl=https%3A%2F%2Fwww.indiatvnews.com%2Ftechnology%2Fnews%2Fimproved-play-store-experience-for-large-devices-unveiled-by-google-2023-07-26-883174&docid=BBrv82uJFH6VHM&tbnid=3P9blunBy8KkaM&vet=12ahUKEwjOnrmxzr-HAxW0S2wGHTKMCkkQM3oECGQQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjOnrmxzr-HAxW0S2wGHTKMCkkQM3oECGQQAA]
+![alt text](https://www.google.com/imgres?q=playstore%20image&imgurl=https%3A%2F%2Fresize.indiatvnews.com%2Fen%2Fresize%2Fnewbucket%2F1200_-%2F2023%2F07%2Fplaystore-1690375555.jpg&imgrefurl=https%3A%2F%2Fwww.indiatvnews.com%2Ftechnology%2Fnews%2Fimproved-play-store-experience-for-large-devices-unveiled-by-google-2023-07-26-883174&docid=BBrv82uJFH6VHM&tbnid=3P9blunBy8KkaM&vet=12ahUKEwjOnrmxzr-HAxW0S2wGHTKMCkkQM3oECGQQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjOnrmxzr-HAxW0S2wGHTKMCkkQM3oECGQQAA)
 ## Features
 - **Data Analysis**: Extraction and transformation of PlayStore data using SQL.
 - **Visualization**: Interactive dashboards and visualizations created in Power BI.
